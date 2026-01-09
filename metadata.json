@@ -1,0 +1,7 @@
+{
+  "name": "XR Viewer by DepthAI",
+  "description": "An Augmented Reality web application that overlays 3D interactive models onto your camera feed using WebGL. Supports uploading custom .glb files.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
